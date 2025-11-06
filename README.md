@@ -140,3 +140,5 @@ The project assumes you have a YOLOv8 model file available (default `yolov8n.pt`
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+test video url = https://youtu.be/YzcawvDGe4Y?si=kKWak_9OyRBW1A-f
